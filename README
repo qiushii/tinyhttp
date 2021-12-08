@@ -3,7 +3,7 @@ tinyhttpd 是一个很简易的 http 服务器，其中example是一些简单的
 俱全，大概的体现了http协议的内容和特点，也涉及到了进程、文件IO、标准IO、
 socket的内容，非常适合初学者学习。
   
-这是我个人对tinyhttp的分析博客:
+这是我个人对tinyhttp的分析博客:https://blog.csdn.net/yuqiushiya/article/details/121742628
   
 以下是原作者的README内容。
   This software is copyright 1999 by J. David Blackstone.  Permission
